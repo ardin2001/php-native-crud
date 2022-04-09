@@ -1,0 +1,22 @@
+
+.create{
+    margin: 15px;
+}
+.create a{
+    color: white;
+}
+.dot {
+    cursor: pointer;
+    height: 13px;
+    width: 13px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+h2 {
+    color: green;
+    text-align: center;
+    padding: 20px 0px 20px;
+    font-weight: bold;
+}
